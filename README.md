@@ -19,7 +19,7 @@
 
 ## 3. Estrategia de ramas elegida
 
-Se eligió la metodología **Git Flow**, dividiendo el trabajo en ramas principales y auxiliares:
+Se escogió la metodología **Git Flow**, dividiendo el trabajo en ramas principales y auxiliares:
 
 * **`main` (o `master`):** Rama de producción. Contiene únicamente código estable y listo para despliegue.
 * **`develop`:** Rama principal de integración. Acumula los avances del equipo antes de ser lanzados a producción.
